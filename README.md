@@ -1,16 +1,30 @@
-## Hi there 👋
+### 👋 Ciao! Sono Gabriele Specchio
 
-<!--
-**GabrieleSpecchio/GabrieleSpecchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Appassionato di sviluppo videogiochi, programmatore con esperienza in Unity 2D e Java.  
+💡 Mi piace variare tra gameplay, effetti visivi, animazioni e prototipi creativi.  
+🔧 Amo sperimentare e migliorare continuamente le mie competenze tecniche e artistiche.
 
-Here are some ideas to get you started:
+## 💻 Competenze
+- 🎯 Linguaggi: C#, Java, C++
+- 🎮 Motori: Unity (2D)
+- 🛠️ Tool: Visual Studio, NetBeans, Git, GitHub
+- ✍️ Aree di interesse: gameplay programming, animazioni, prototipazione, effetti visivi
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Progetti in evidenza
+
+- [**Titolo Progetto 1**](https://github.com/GabrieleSpecchio/NOME_REPO)  
+  Descrizione breve del progetto + tecnologie usate.
+
+- [**Titolo Progetto 2**](https://github.com/GabrieleSpecchio/NOME_REPO)  
+  Altro progetto interessante, demo o gioco.
+
+*(Aggiungi qui man mano altri progetti, magari con uno screenshot!)*
+
+---
+
+## 📫 Contatti
+- ✉️ [Inserisci tua email se vuoi condividerla]
+- 🔗 [LinkedIn se ne hai uno]
+- 📂 [Itch.io o altra piattaforma se hai giochi pubblicati]
+
+Grazie per aver visitato il mio profilo! 💙
